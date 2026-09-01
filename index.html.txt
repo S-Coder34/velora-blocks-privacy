@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Velora Blocks - Gizlilik Politikası</title>
+</head>
+<body>
+  <h1>Velora Blocks Gizlilik Politikası</h1>
+
+  <p>Son güncelleme: 2 Eylül 2026</p>
+
+  <p>
+    Velora Blocks, kullanıcı gizliliğine önem verir. Bu politika,
+    uygulama kullanılırken hangi bilgilerin işlenebileceğini ve bu
+    bilgilerin nasıl kullanıldığını açıklar.
+  </p>
+
+  <h2>Toplanan ve İşlenen Bilgiler</h2>
+
+  <p>
+    Velora Blocks; oyun skorları, V Coin bakiyesi, seviye ilerlemesi,
+    kullanıcı tercihleri ve uygulama ayarları gibi oyun verilerini
+    cihaz üzerinde saklayabilir.
+  </p>
+
+  <p>
+    Uygulama reklam hizmetleri kapsamında cihaz bilgileri, reklam
+    kimlikleri ve reklam etkileşimleri gibi sınırlı teknik veriler
+    üçüncü taraf hizmet sağlayıcılar tarafından işlenebilir.
+  </p>
+
+  <h2>Google AdMob</h2>
+
+  <p>
+    Velora Blocks reklam göstermek için Google AdMob hizmetini kullanabilir.
+    Google, reklamların sunulması, ölçülmesi ve dolandırıcılığın önlenmesi
+    amacıyla belirli cihaz ve reklam verilerini işleyebilir.
+  </p>
+
+  <p>
+    Kullanıcıların bulunduğu bölgeye ve verdikleri izinlere bağlı olarak
+    kişiselleştirilmiş veya kişiselleştirilmemiş reklamlar gösterilebilir.
+  </p>
+
+  <h2>Reklam Gizlilik Tercihleri</h2>
+
+  <p>
+    Uygun bölgelerde kullanıcıların reklam ve gizlilik tercihleri
+    Google User Messaging Platform (UMP) aracılığıyla yönetilebilir.
+    Kullanıcılar uygulama içindeki reklam gizlilik seçeneklerinden
+    mevcut tercihlerini inceleyebilir veya değiştirebilir.
+  </p>
+
+  <h2>Üçüncü Taraf Hizmetleri</h2>
+
+  <p>
+    Uygulama Google AdMob ve Google tarafından sağlanan ilgili reklam
+    ve gizlilik hizmetlerini kullanabilir. Bu hizmetlerin veri işleme
+    uygulamaları kendi gizlilik politikalarına tabidir.
+  </p>
+
+  <h2>Verilerin Satışı</h2>
+
+  <p>
+    Velora Blocks kullanıcıların kişisel bilgilerini doğrudan satmaz.
+  </p>
+
+  <h2>Çocukların Gizliliği</h2>
+
+  <p>
+    Velora Blocks genel kitleye yönelik bir bulmaca oyunudur.
+    Bilerek çocuklardan kişisel bilgi toplamayı amaçlamaz.
+  </p>
+
+  <h2>Politika Değişiklikleri</h2>
+
+  <p>
+    Bu gizlilik politikası gerektiğinde güncellenebilir. Güncel sürüm
+    her zaman bu sayfada yayınlanacaktır.
+  </p>
+
+  <h2>İletişim</h2>
+
+  <p>
+    Gizlilik politikasıyla ilgili sorularınız için:
+    <strong>BURAYA E-POSTA ADRESİNİ YAZ</strong>
+  </p>
+
+  <hr>
+
+  <h1>Velora Blocks Privacy Policy</h1>
+
+  <p>Last updated: September 2, 2026</p>
+
+  <p>
+    Velora Blocks respects user privacy. This policy explains what
+    information may be processed while using the application and how
+    that information may be used.
+  </p>
+
+  <h2>Information We Process</h2>
+
+  <p>
+    Velora Blocks may store gameplay information such as scores,
+    V Coin balance, level progression, user preferences and application
+    settings locally on the user's device.
+  </p>
+
+  <p>
+    In connection with advertising services, limited technical
+    information such as device information, advertising identifiers
+    and advertising interactions may be processed by third-party
+    service providers.
+  </p>
+
+  <h2>Google AdMob</h2>
+
+  <p>
+    Velora Blocks may use Google AdMob to display advertisements.
+    Google may process certain device and advertising information
+    for ad delivery, measurement and fraud prevention.
+  </p>
+
+  <p>
+    Depending on the user's region and consent choices, personalized
+    or non-personalized advertisements may be displayed.
+  </p>
+
+  <h2>Advertising Privacy Choices</h2>
+
+  <p>
+    Where applicable, advertising privacy choices may be managed using
+    Google's User Messaging Platform (UMP). Users may review or modify
+    available advertising privacy preferences from within the application.
+  </p>
+
+  <h2>Third-Party Services</h2>
+
+  <p>
+    The application may use Google AdMob and related advertising and
+    privacy services provided by Google. These services are subject to
+    their own privacy policies and data practices.
+  </p>
+
+  <h2>Sale of Personal Information</h2>
+
+  <p>
+    Velora Blocks does not directly sell users' personal information.
+  </p>
+
+  <h2>Children's Privacy</h2>
+
+  <p>
+    Velora Blocks is a general-audience puzzle game and is not intended
+    to knowingly collect personal information from children.
+  </p>
+
+  <h2>Changes to This Policy</h2>
+
+  <p>
+    This privacy policy may be updated when necessary. The current
+    version will always be available on this page.
+  </p>
+
+  <h2>Contact</h2>
+
+  <p>
+    For questions regarding this privacy policy:
+    <strong>ENTER YOUR EMAIL ADDRESS HERE</strong>
+  </p>
+</body>
+</html>
